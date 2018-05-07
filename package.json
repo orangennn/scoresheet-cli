@@ -19,7 +19,7 @@
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
     "jasmine": "^2.6.0",
-    "sinon": "^2.3.5"
+    "sinon": "^2.4.1"
   },
   "dependencies": {
     "cli-interact": "^0.1.9"
